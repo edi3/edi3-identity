@@ -2,7 +2,7 @@
 title: "edi3 Identity Provider 1.0 Specification"
 specID: "identity/1"
 status: "![raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)"
-editors: "[Chris Gough](https://github.com/monkeypants)"
+editors: "[Chris Gough](mailto:christopher.d.gough@gmail.com)"
 contributors: 
 ---
 
