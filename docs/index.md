@@ -1,5 +1,5 @@
 ---
-title: "edi3 Identity Provider 1.0 Specification"
+title: "edi3 Decentralised Identifiers 1.0 Specification"
 specID: "identity/1"
 status: "![raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)"
 editors: "[Chris Gough](mailto:christopher.d.gough@gmail.com)"
